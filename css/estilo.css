@@ -1,10 +1,12 @@
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f1f1f1;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    background: url("https://i.pinimg.com/736x/8c/ce/2a/8cce2abc59f18fc45d3302619ac3a0b2.jpg") no-repeat center center fixed;
+    background-size: cover;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
+    margin: 0;
 }
 
 .container {
